@@ -11,7 +11,6 @@ int main(void)
     scanf_s("%d", &num);
 
     for (i = 2; i <= num; i++)
-
     {
         pn = 1;
 
@@ -22,11 +21,9 @@ int main(void)
             if ((i % j) == 0)
 
             {
-
                 pn = 0;
 
                 break;
-
             }
 
         }
@@ -34,7 +31,6 @@ int main(void)
         if (pn == 1)
 
         {
-
             printf("%5d", i);
 
             cnt++;
