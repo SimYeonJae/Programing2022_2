@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\kb246\onedrive\문서\github\programing2022_2\report_array_pointer\정렬 프로그램\정렬 프로그램\소스.cpp(9): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  정렬 프로그램.vcxproj -> C:\Users\kb246\OneDrive\문서\GitHub\Programing2022_2\Report_Array_Pointer\정렬 프로그램\Debug\정렬 프로그램.exe
