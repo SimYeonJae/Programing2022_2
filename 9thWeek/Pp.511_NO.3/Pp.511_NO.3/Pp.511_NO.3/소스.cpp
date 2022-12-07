@@ -12,7 +12,7 @@ int main(void)
 
 	for (int c = CYAN; c <= BLACK; c++)
 	{
-		int direction{};
+		int direction{};NO.
 		direction = direction % 4;
 		direction++;
 		if (c == my_color)break;
